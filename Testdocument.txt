@@ -2,7 +2,6 @@ HI How are you
 
 
 
-I am on the way to git hub training
 
 
 Start learning git hub
